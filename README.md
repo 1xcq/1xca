@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @1xca
-- 👀 I’m interested in Cybersecurity and Video Games.
-- 🌱 I’m currently learning fragment shaders web application bugs.
+- 👀 I’m interested in Web Dev and Video Games.
+- 🌱 I’m currently learning React and NextJS.
